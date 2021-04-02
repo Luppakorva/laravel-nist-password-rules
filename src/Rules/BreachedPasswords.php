@@ -1,6 +1,6 @@
 <?php
 
-namespace LangleyFoxall\LaravelNISTPasswordRules\Rules;
+namespace luppakorva\LaravelNISTPasswordRules\Rules;
 
 use DivineOmega\LaravelPasswordExposedValidationRule\PasswordExposed;
 use DivineOmega\PasswordExposed\PasswordExposedChecker;
