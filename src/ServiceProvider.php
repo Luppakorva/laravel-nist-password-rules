@@ -1,6 +1,6 @@
 <?php
 
-namespace LangleyFoxall\LaravelNISTPasswordRules;
+namespace luppakorva\LaravelNISTPasswordRules;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
