@@ -1,13 +1,13 @@
 <?php
 
-namespace LangleyFoxall\LaravelNISTPasswordRules;
+namespace luppakorva\LaravelNISTPasswordRules;
 
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\BreachedPasswords;
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\ContextSpecificWords;
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\DerivativesOfContextSpecificWords;
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\DictionaryWords;
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\RepetitiveCharacters;
-use LangleyFoxall\LaravelNISTPasswordRules\Rules\SequentialCharacters;
+use luppakorva\LaravelNISTPasswordRules\Rules\BreachedPasswords;
+use luppakorva\LaravelNISTPasswordRules\Rules\ContextSpecificWords;
+use luppakorva\LaravelNISTPasswordRules\Rules\DerivativesOfContextSpecificWords;
+use luppakorva\LaravelNISTPasswordRules\Rules\DictionaryWords;
+use luppakorva\LaravelNISTPasswordRules\Rules\RepetitiveCharacters;
+use luppakorva\LaravelNISTPasswordRules\Rules\SequentialCharacters;
 
 abstract class PasswordRules
 {
