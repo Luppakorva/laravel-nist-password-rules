@@ -21,18 +21,18 @@
     },
     "autoload": {
         "psr-4": {
-            "LangleyFoxall\\LaravelNISTPasswordRules\\": "src/"
+            "luppakorva\\LaravelNISTPasswordRules\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "LangleyFoxall\\LaravelNISTPasswordRules\\Tests\\": "tests/"
+            "luppakorva\\LaravelNISTPasswordRules\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LangleyFoxall\\LaravelNISTPasswordRules\\ServiceProvider"
+                "luppakorva\\LaravelNISTPasswordRules\\ServiceProvider"
             ]
         }
     }
